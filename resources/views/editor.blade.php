@@ -26,8 +26,7 @@
                   holder: this.$refs.editor,
                   data: this.json,
                   autofocus: true,
-                  placeholder: '{{ __('
-                  Write something awesome!') }}',
+                  placeholder: 'Write something awesome!',
                   logLevel: 'ERROR',
                   tools: {
                         header: {
